@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am **Jin Zhou** (周进), a student majoring in **Computer Science** at **Nanjing University**.
+I am **Jin Zhou**, a student majoring in **Computer Science** at **Nanjing University**.
 
 ## Contact
 
